@@ -1,0 +1,7 @@
+
+
+	1.	../configure --with-cc=arm-linux-gcc --with-linker=arm-linux-ld --enable-elf-shlibs --host=arm -prefix=/home/zhaochao/Desktop/E2fsprogs/e2fsprogs/MINI2440_build/libs
+	
+	2. make
+
+	3. make install-libs
